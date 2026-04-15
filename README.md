@@ -11,4 +11,8 @@ cd.. cd..
 scarica i lora da civitai filtri:[flux 2 klein 9b] mettili nella cartella Lora
 trovi i nomi dei lora nel file prompt define
 
+pip install -r requirements.txt
+
+python select_action.py
+
 
